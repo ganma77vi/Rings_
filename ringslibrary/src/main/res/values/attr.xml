@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Rings">
+        <attr name="belowcircleColor" format="color" />
+        <attr name="upsidecircleColor" format="color" />
+        <attr name="ringscolor" format="string" />
+        <attr name="center2innercircle" format="dimension" />
+        <attr name="ringpercent" format="string" />
+        <attr name="ringwidth" format="dimension" />
+        <attr name="ringspacing" format="dimension" />
+        <attr name="textsize" format="integer" />
+    </declare-styleable>
+</resources>
